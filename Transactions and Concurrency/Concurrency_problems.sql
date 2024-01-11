@@ -1,0 +1,4 @@
+-- lost Updates         -- 
+-- Dirty reads          -- another transaction making a decision based off data from a transaction that has not been commited yet or has been rolled back
+-- Inconsistent Reads   -- reading a data more than once and it changes on each read.
+-- Phantom reads        -- elegible data appearing after a transaction.

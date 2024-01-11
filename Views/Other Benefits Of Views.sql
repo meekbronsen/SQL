@@ -1,0 +1,5 @@
+-- Views can help simplify long queries.
+-- Reduce the impact of changes to your database. 
+-- Restrict access to the underlying data, by restricting users from changing data in the database table but on the views.
+-- NB Use them to put an abstraction layer over your tables
+-- NB data security

@@ -1,0 +1,4 @@
+-- Reserve use of indexes for performance critical queries
+-- Do not add indexes at the time desing the table
+-- Design indexs based on your queries
+-- The purpose of an index is to speed up a slow query

@@ -1,0 +1,2 @@
+-- Since relation databases do not allow a direct many to many relationship, a linking table is introduced.
+-- The only reason for existence of a linking table is to link two tables, with a many to many relationship

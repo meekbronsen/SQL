@@ -1,0 +1,5 @@
+-- Stored procedure is where sql query is stored.
+-- an object that contains a block of sql code.
+-- stored procedures used to store and organize sql code
+-- NB in our application code we simply call procedures to get or save the data.
+-- some dbms perform optimization techniques to our code

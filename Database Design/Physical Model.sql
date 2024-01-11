@@ -1,0 +1,3 @@
+-- Detailing the logical model to fit be in a choosen DBMS
+-- Define the data types from string to VARCHAR
+-- 

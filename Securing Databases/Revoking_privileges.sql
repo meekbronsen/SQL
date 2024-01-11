@@ -1,0 +1,1 @@
+REVOKE CREATE ON sql_store.* FROM moon_app;

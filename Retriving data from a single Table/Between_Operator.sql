@@ -1,0 +1,3 @@
+SELECT *
+FROM customers
+WHERE points BETWEEN 3000 AND 1000f

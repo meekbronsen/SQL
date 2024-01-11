@@ -1,0 +1,4 @@
+-- Is a column that uniquely identifies each record in a table.
+-- Composite primary key is one where multiple columns are combined inorder to make a primary key for  that table.
+-- If the attributes in the table are subject to change and cannot be used as primary keys, Introduce a new column like id.
+-- primary key should be first in the table to better understand our design

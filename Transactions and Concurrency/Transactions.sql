@@ -1,0 +1,8 @@
+-- A group of SQL statements that represents a single unit of work.
+-- all the statements to be completed successfully or the transaction will fail.
+-- making multiple changes to a database but we want these changes to fail or succeed together as a single unit
+-- Transaction properties
+    -- Atomicity         -- Transactions are like atoms they are unbreakable
+    -- Consistency       -- Order is consistent
+    -- Isolation         -- Transactions are isolated from each other if they try to modify the same data
+    -- Durability        -- Changes made to the database are long-lasting

@@ -1,0 +1,4 @@
+-- We need to make sure that our design is optimal and does not allow redundant and duplicate data
+-- Normalization is the process of reviewing our design and see that it follows predefined rules to maintain data integrity.
+-- The rules are 7 aka 7 Normal forms. and each rule assumes you've applied the previous rule.
+-- For almost 99% of the application you'll only need to apply the first 3 normal forms

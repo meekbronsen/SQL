@@ -1,0 +1,2 @@
+-- Focus on removing redundancy from the db.
+-- whenever you see duplicated values and the values are not foreign keys, that means your design is not normalized.
